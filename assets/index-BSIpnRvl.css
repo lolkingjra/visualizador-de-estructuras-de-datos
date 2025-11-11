@@ -1,0 +1,1 @@
+.scroll-animate{transition:opacity 1s ease-out,transform 1s ease-out}.scroll-animate-before{opacity:0;transform:translateY(30px)}.scroll-animate-after{opacity:1;transform:translateY(0)}
