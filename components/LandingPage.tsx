@@ -59,7 +59,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ onEnterApp }) => {
                         </div>
                         <div className="bg-gray-800/50 backdrop-blur-sm border border-gray-700 rounded-xl p-4 shadow-2xl overflow-hidden">
                             <img 
-                                src="public\images\feature-tree.png" 
+                                src="public\images\iconApp.png" 
                                 alt="Visualización de un árbol AVL"
                                 className="w-full h-auto rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-500 ease-in-out"
                             />
