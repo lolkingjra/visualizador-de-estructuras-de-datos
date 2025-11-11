@@ -74,7 +74,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ onEnterApp }) => {
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-16 items-center max-w-6xl mx-auto">
                         <div className="bg-gray-800/50 backdrop-blur-sm border border-gray-700 rounded-xl p-4 shadow-2xl overflow-hidden order-2 md:order-1">
                              <img 
-                                src="/images/feature-graph.png" 
+                                src="public\images\feature-graph.png" 
                                 alt="Cálculo del camino más corto con Dijkstra"
                                 className="w-full h-auto rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-500 ease-in-out"
                             />
