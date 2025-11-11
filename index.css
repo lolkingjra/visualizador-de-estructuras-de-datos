@@ -1,0 +1,20 @@
+/* index.css */
+
+
+
+/* La transición que se aplicará a los elementos que queremos animar */
+.scroll-animate {
+    transition: opacity 1s ease-out, transform 1s ease-out;
+}
+
+/* El estado inicial del elemento ANTES de que entre en la pantalla */
+.scroll-animate-before {
+    opacity: 0;
+    transform: translateY(30px);
+}
+
+/* El estado final del elemento UNA VEZ que está en la pantalla */
+.scroll-animate-after {
+    opacity: 1;
+    transform: translateY(0);
+}

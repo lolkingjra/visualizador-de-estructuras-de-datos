@@ -1,0 +1,5 @@
+{
+  "name": "Visualizador de Estructuras de Datos",
+  "description": "Una aplicación web interactiva para aprender y visualizar las operaciones de Árboles (Binarios de Búsqueda, AVL) y Grafos. Incluye inserción, búsqueda, eliminación, recorridos y balanceo para árboles, y adición de nodos y aristas para grafos, con explicaciones paso a paso y ejemplos de código en C++.",
+  "requestFramePermissions": []
+}
